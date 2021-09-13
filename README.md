@@ -1,4 +1,4 @@
-# PATATAP CLONE
+# PATATAP CLONE - Front End Application
 * This is a mini version of Patatap clone(https://www.patatap.com/) , but there are only circles for animations.
 * This was built as part of my assignment for Udemy Course "The Web Developer Bootcamp".
 
