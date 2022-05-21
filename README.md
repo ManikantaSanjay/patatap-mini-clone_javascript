@@ -1,8 +1,12 @@
-# PATATAP CLONE - Front End Application
-* This is a mini version of Patatap clone(https://www.patatap.com/) , but there are only circles for animations.
-* This was built as part of my assignment for Udemy Course "The Web Developer Bootcamp".
+<div align="Center">
+<h1> PATATAP SIMULATION - Front End Application </h1>
+</div>
 
-Technologies Used:
+## About
+* This is a interactive web application which plays several svg animations using keystrokes.
+* This was built as part of my assignment for Udemy Course "The Web Developer Bootcamp".
+* This is a mini clone version of Patatap (https://www.patatap.com/)
+## Technologies Used
 * Paper.js  - Vector Graphics Scripting
 * Howler.js  - Javascript audio library
 * Javascript  - High-level, interpreted programming language
